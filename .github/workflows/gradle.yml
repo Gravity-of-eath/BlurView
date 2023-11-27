@@ -37,7 +37,7 @@ jobs:
       with:
           name: app-debug
           # path: ./usbSerialForAndroid/build/outputs/aar/*.aar
-          path: ./library/outputs/aar/*.aar
+          path: ./library/build/outputs/aar/*.aar
 
         
       # The USERNAME and TOKEN need to correspond to the credentials environment variables used in
